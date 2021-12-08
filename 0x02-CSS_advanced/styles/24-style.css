@@ -210,6 +210,8 @@ ul.row {
     background-color: var(--color-black);
 }
 
+/* social classes */
+
 .footer-address {
     color: var(--text-color);
 }
@@ -223,7 +225,7 @@ ul.row {
 }
 
 .card-services .card-title {
-    margin: none;
+    margin: 0;
 }
 
 .card-services a {
