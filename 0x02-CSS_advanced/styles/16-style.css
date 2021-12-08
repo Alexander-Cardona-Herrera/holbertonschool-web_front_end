@@ -3,17 +3,20 @@
 /*# sourceMappingURL=normalize.min.css.map */
 
 /* universa box sizing */
+
 *, *:before, *:after {
     box-sizing: border-box;
 }
 
 /* scroll behavior */
+
 html {
    scroll-behavior: smooth;
    font-size: 62.5%
 }
 
 /* body colors */
+
 body {
     color: var(--text-color);
     font-family: var(--font-family-base);
@@ -73,11 +76,12 @@ a:active {
 
 .conteiner {
     width: 960px;
-    margin-right: auto;
     margin-left: auto;
+    margin-right: auto;
 }
 
 /* custom properties for the root */
+
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
