@@ -74,7 +74,7 @@ a:active {
     font-weight: var(--font-weight-bold);
 }
 
-.conteiner {
+.container {
     width: 960px;
     margin-left: auto;
     margin-right: auto;
