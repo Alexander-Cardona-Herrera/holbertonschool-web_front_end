@@ -1,0 +1,61 @@
+html {
+  height: 100vh;
+}
+
+body {
+  height: 50%;
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  height: 90%;
+  width: 100%;
+}
+
+.container .box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.box1 {
+  font-size: 2vw;
+  width: 7%;
+  height: 18%;
+background-color: #175332;
+}
+
+.box2 {
+  font-size: 4vw;
+  width: 12%;
+  height: 28%;
+  background-color: #3d6c8d;
+}
+
+.box3 {
+  background-color: #273642;
+  width: 22%;
+  height: 48%;
+  font-size: 8vw;
+}
+
+.box4 {
+  font-size: 4vw;
+  width: 12%;
+  height: 28%;
+   background-color: #672183;
+}
+
+.box5 {
+  font-size: 2vw;
+  width: 7%;
+  height: 18%;
+   background-color: #91540f;
+}
+
